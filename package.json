@@ -1,0 +1,22 @@
+{
+  "name": "cuddly-fortnight",
+  "version": "0.0.1",
+  "description": "obtiene los puntos geográficos más cercanos a un punto gegoráfico dado",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josepablocastro/cuddly-fortnight.git"
+  },
+  "keywords": [
+    "geo"
+  ],
+  "author": "Jose Pablo Castro <jp@gobu.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josepablocastro/cuddly-fortnight/issues"
+  },
+  "homepage": "https://github.com/josepablocastro/cuddly-fortnight#readme"
+}
