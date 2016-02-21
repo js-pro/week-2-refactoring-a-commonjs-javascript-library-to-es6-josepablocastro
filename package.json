@@ -1,6 +1,6 @@
 {
   "name": "cuddly-fortnight",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "obtiene los puntos geográficos más cercanos a un punto gegoráfico dado",
   "main": "src/index.js",
   "scripts": {
